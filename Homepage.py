@@ -1,5 +1,4 @@
 import streamlit
-import nltk
 from streamlit_option_menu import option_menu
 from nltk.corpus import stopwords
 import pandas as pd
