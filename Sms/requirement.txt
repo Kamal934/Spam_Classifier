@@ -1,0 +1,3 @@
+Streamlit, version 1.25.0
+nltk, version 3.8.1
+sklearn 1.2.2
